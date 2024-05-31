@@ -13,4 +13,3 @@ I'm Alice!
 - Mastodon: [@aliceisjustplaying@chaos.social](https://chaos.social/@aliceisjustplaying)
 - Bluesky: [alice.bsky.sh](https://bsky.app/profile/alice.bsky.sh)
 - Discord: @aliceisjustplaying
-- DECT @ EMF: 7724
