@@ -36,8 +36,8 @@ default_theme = "light"
 list_pages = false
 twitter_card = true
 
-header_nav = [
-  { url = "/", name_en = "/home/"},
-  { url = "/about", name_en = "/about/" },
-  { url = "/blog", name_en = "/blog/" }
-]
+# header_nav = [
+#   { url = "/", name_en = "/home/"},
+#   { url = "/about", name_en = "/about/" },
+#   { url = "/blog", name_en = "/blog/" }
+# ]
